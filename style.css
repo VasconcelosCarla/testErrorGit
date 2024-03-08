@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+img{
+    width: 400px;
+}
+
+#botao1{
+    background-color: aqua;
+    color: aliceblue;
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: 18px;
+}
